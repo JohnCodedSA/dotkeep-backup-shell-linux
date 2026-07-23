@@ -14,6 +14,11 @@ Toda vez que formato a máquina ou preciso configurar um novo ambiente Linux, o 
 ## 🚀 Como usar
 
 ### 1. Clonar o repositório
-```bash
 git clone [https://github.com/JohnCodedSA/dotkeep.git](https://github.com/JohnCodedSA/dotkeep.git)
 cd dotkeep
+
+### 2. Dar permissão de execução
+chmod +x dotkeep.sh
+
+### 3. Executar o script
+./dotkeep.sh
